@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 
 title: Alexis Reyes Jr
-description: Personal space ...
+description: print("Hello World")
 logo: /assets/img/logo.png
 show_downloads: true
