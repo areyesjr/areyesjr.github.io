@@ -1,4 +1,4 @@
-# areyesjr.github.io
+# areyesjr.com
 
 ``` persomal site based out of github pages minimal theme ```
 
