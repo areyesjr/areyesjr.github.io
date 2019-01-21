@@ -1,1 +1,3 @@
-# How to install powerline the easy way
+# Install powerline the easy way
+
+[back](../)
