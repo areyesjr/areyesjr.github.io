@@ -1,5 +1,23 @@
 ## Mac Core Setup
 
+Although I work 100% on linux systems I must say that my favorite operating system to work on is MacOS. I get the benefit of a unix based operating system with benefits of a beautiful system. Now, MacOS is not perfect so here are some minor tweeks that I implement on my mac to get it up and running. 
+
+Fist thing first, I need a package manager. I prefer to use brew since it's really the only one that I have tested and have grown to love the system. [here](https://brew.sh/) you can find the link to the official site. 
+
+### Brew
+
+Installing brew is quite easy just open the terminal and run the following.
+
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+Once installed I trypicall install the following right away. 
+
+```
+brew install wget git tmux doctl bash-completion terraform watch
+```
+
 ### tmux config
 
 ```
