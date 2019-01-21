@@ -6,4 +6,6 @@ Once installed this is how it looks.
 
 ![powerline](../assets/img/powerline-01.png)
 
+Notice how status line identifies that I am on the [master](https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is) branch.
+
 [back](../)
