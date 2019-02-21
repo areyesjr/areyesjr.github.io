@@ -1,6 +1,9 @@
 theme: niklasbuschmann/contrast
-
+plugins:
+  - jekyll-remote-theme
+  
 title: Alexis Reyes Jr
 description: Father, Husband  - Solution Engineer
 logo: /assets/img/logo.png
 github.is_user_page: false
+
