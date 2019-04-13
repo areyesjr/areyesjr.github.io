@@ -4,6 +4,6 @@ layout: default
 
 ### Randomness coming soon
 
-[BACK](../)
+[BACK](../../)
 
 You can follow me on [twitter](https://twitter.com/AlexisReyesJR).

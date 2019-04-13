@@ -6,6 +6,6 @@ layout: default
 
 coming soon
 
-[BACK](../)
+[BACK](../projects)
 
 You can follow me on [twitter](https://twitter.com/AlexisReyesJR).
