@@ -2,7 +2,9 @@
 layout: default
 ---
 
-### Randomness coming soon
+### Random
+
+coming soon
 
 [BACK](../)
 
