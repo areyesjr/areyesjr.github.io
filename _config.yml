@@ -1,8 +1,9 @@
-title: Dracula GitHub Pages
+title: Alexis Reyes
 show_downloads: false
 google_analytics:
 remote_theme: "dracula/gh-pages"
-show_header: true
+show_header: false
+show_footer: false
 
 sass:
     style: compressed
