@@ -4,7 +4,7 @@ layout: default
 
 ### Projects
 
-The following page takes you to projects that I am currently working on. 
+Projects that I am currently working on. 
 
 [CLICK](./projects)
 
