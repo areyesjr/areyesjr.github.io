@@ -6,8 +6,8 @@ layout: default
 
 ![shell](../../img/shell.png)
 
-I am a big fan of the Dracula Themes and I use their color schemes for everything!
-Credit goes to them. You can find them [HERE](https://draculatheme.com/).
+I am a big fan of the Dracula Theme and I use their color schemes for everything!
+Credit goes to that awesome community. You can find them [HERE](https://draculatheme.com/).
 
 I use the Dracula Theme on everything:
 *   VSCode
@@ -46,6 +46,8 @@ plugins=(
 ...
 ```
 There are hundreds of plugins to choose from. These are work for me. 
+zsh-autosuggestions and zsh-syntax-highlighting do not come by default. 
+You can refer to [zsh-users](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md) on installation instructions.
 
 Click here to read more on [oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
 
