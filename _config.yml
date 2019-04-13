@@ -1,9 +1,5 @@
-title: Alexis Reyes
+title: Alexis Reyes JR
 show_downloads: false
-google_analytics:
 remote_theme: "dracula/gh-pages"
 show_header: false
 show_footer: false
-
-sass:
-    style: compressed
