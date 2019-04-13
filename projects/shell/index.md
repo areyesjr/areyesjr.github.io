@@ -4,7 +4,7 @@ layout: default
 
 ### Shell
 
-coming soon
+![shell](../../img/shell.png)
 
 [BACK](../)
 
