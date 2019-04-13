@@ -7,7 +7,7 @@ layout: default
 ![shell](../../img/shell.png)
 
 I am a big fan of the Dracula Themes and I use their color schemes for everything!
-Credit goes to them. You can find them [here](https://github.com/dracula/hyper).
+Credit goes to them. You can find them [HERE](https://draculatheme.com/).
 
 I use the Dracula Theme on everything:
 *   VSCode
@@ -20,10 +20,14 @@ I use the Dracula Theme on everything:
 We its really simple. 
 
 1. Download and install [Hyper](https://hyper.is/).
+
 2. Install the dracula theme by running ```hyper install hyper-dracula``` in Hyper. 
+
 3. Run the following command to change shells and use zsh.
 ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
+
 4. Add the following plugins to your ```~/.zshrc``` config. 
+
 ```
 ...
 plugins=(
