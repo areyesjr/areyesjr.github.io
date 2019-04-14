@@ -17,7 +17,7 @@ I use the Dracula Theme on everything:
 
 #### [](#header-4)How to get your terminal to look like mine. 
 
-We its really simple. 
+Well it's really simple. 
 
 1. Download and install [Hyper](https://hyper.is/).
 
