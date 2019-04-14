@@ -6,7 +6,7 @@ layout: default
 
 ![shell](../../img/shell.png)
 
-The colors and magic could not be possible without the Dracula Theme. 
+The colors and magic could not be possible without the Dracula Theme.  
 Credit goes to that awesome community. You can find them [HERE](https://draculatheme.com/).
 
 I use the Dracula Theme on everything:
