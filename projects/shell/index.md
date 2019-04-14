@@ -23,7 +23,7 @@ Well it's really simple.
 
 2. Install the dracula theme by running ```hyper install hyper-dracula``` in Hyper. 
 
-3. Run the following command to change shells and use zsh.
+3. Run the following command to change shells and use zsh. Oh-my-zsh is a framework for managing zsh configurations.
 ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
 
 4. Add the following plugins to your ```~/.zshrc``` config. 
