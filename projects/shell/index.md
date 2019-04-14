@@ -48,7 +48,7 @@ There are hundreds of plugins to choose from. These are work for me.
 zsh-autosuggestions and zsh-syntax-highlighting do not come by default. 
 You can refer to [zsh-users](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md) on installation instructions.
 
-Click here to read more on [oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
+Click here to read more on [oh my zsh](https://github.com/robbyrussell/oh-my-zsh).
 
 [BACK](../)
 
