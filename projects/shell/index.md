@@ -50,6 +50,6 @@ You can refer to [zsh-users](https://github.com/zsh-users/zsh-autosuggestions/bl
 
 Click here to read more on [oh my zsh](https://github.com/robbyrussell/oh-my-zsh).
 
-[BACK](../)
+[..](../)
 
 You can follow me on [twitter](https://twitter.com/AlexisReyesJR).

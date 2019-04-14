@@ -6,12 +6,12 @@ layout: default
 
 Projects that I am currently working on. 
 
-[CLICK](./projects/)
+[./projects](./projects/)
 
 ### Random
 
 Proceed with caution. Just ramdom stuff.
 
-[CLICK](./random/)
+[./random](./random/)
 
 You can follow me on [twitter](https://twitter.com/AlexisReyesJR).
