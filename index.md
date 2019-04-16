@@ -2,12 +2,6 @@
 layout: default
 ---
 
-### Me
-
-My background and information. 
-
-[./me](./me/)
-
 ### Projects
 
 Projects that I am currently working on. 
