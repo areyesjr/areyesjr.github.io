@@ -4,7 +4,7 @@ layout: default
 
 ### Doctl
 
-## Cheat sheet
+#### Cheat sheet
 
 [Droplets](https://www.digitalocean.com/products/droplets/)
 
