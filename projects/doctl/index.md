@@ -9,7 +9,11 @@ layout: default
 [Droplets](https://www.digitalocean.com/products/droplets/)
 
 Create droplet:  
-```doctl compute droplet create <dropletname> --size "s-1vcpu-1gb" --image "centos-7-x64" --region "lon1"```
+```doctl compute droplet create <dropletname> \
+--size "s-1vcpu-1gb" \
+--image "centos-7-x64" \
+--region "lon1"
+```
 
 List droplets:
 ```doctl compute droplet list```
