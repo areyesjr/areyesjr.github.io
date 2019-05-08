@@ -12,7 +12,7 @@ Create droplet:
 ```doctl compute droplet create <dropletname> --size "s-1vcpu-1gb" --image "centos-7-x64" --region "lon1"
 ```
 
-List droplets:
+List droplets:  
 ```doctl compute droplet list```
 
 Delete droplet:  
