@@ -41,7 +41,7 @@ List kubernetes clusters:
 
 Delete kubernetes cluster:  
 
-```doctl k8s cluster delete```
+```doctl k8s cluster delete <clustername>```
 
 More to come..........
 
