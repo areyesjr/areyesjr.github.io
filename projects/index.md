@@ -11,7 +11,7 @@ The following page provides steps on how to duplicate my shell and enviornment.
 
 ### Doctl
 
-Simple cheat sheet for doctl. I plan on adding more resources so check back in. 
+Simple cheat sheet for doctl. I plan on adding more resources so check back in.  
 [Doctl](https://github.com/digitalocean/doctl) is a command line interface for the DigitalOcean API.
 
 [./doctl](./doctl)
