@@ -6,7 +6,7 @@ layout: default
 
 #### [](#header-4)Cheat sheet
 
-(Droplets)[https://www.digitalocean.com/products/droplets/]
+[Droplets](https://www.digitalocean.com/products/droplets/)
 
 Create droplet
 ``` doctl compute droplet create <dropletname> --size "s-1vcpu-1gb" --image "centos-7-x64" --region "lon1" ```
@@ -25,7 +25,7 @@ List snapshots for droplet
 
 ``` doctl compute droplet snapshots <dropletid> ```
 
-(DO Kubernetes)[https://www.digitalocean.com/products/kubernetes/]
+[DO Kubernetes](https://www.digitalocean.com/products/kubernetes/)
 
 Create DO kubernetes cluster
 
