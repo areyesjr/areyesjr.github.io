@@ -2,6 +2,14 @@
 layout: default
 ---
 
+### About
+
+Just some info and how to contact me. 
+
+[./about](./about/)
+
+---
+
 ### Projects
 
 Projects that I am currently working on. 
