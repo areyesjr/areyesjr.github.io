@@ -23,12 +23,34 @@ Experience
 
 Tech
 
-*   [terraform](https://www.terraform.io/)
-*   [ansible](https://www.ansible.com/)
-*   [pulumi](https://www.pulumi.com/)
-*   [bash](https://www.gnu.org/software/bash/)
-*   [python](https://www.python.org/)
-*   [cloud](https://en.wikipedia.org/wiki/Cloud)
+<table>
+<tr>
+<td><strong>tech</strong></td>
+<td><strong>expertise</strong></td>
+</tr>
+<tr>
+<td>[terraform](https://www.terraform.io/)</td>
+<td>experienced</td>
+</tr>
+<tr>
+<td>[ansible](https://www.ansible.com/)</td>
+<td>experienced</td>
+</tr>
+<tr>
+<td>[pulumi](https://www.pulumi.com/)/td>
+<td>newbie</td>
+</tr>
+<tr>
+<td>[bash](https://www.gnu.org/software/bash/)</td>
+<td>experienced</td>
+</tr>
+<td>[python](https://www.python.org/)</td>
+<td>newbie</td>
+</tr>
+<td>[cloud](https://en.wikipedia.org/wiki/Cloud)</td>
+<td>experienced</td>
+</tr>
+</table>
 
 Love
 
