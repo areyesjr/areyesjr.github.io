@@ -5,11 +5,10 @@ layout: default
 ### About
 
 ```
-Experienced Sales/Solution Engineer with an extensive 
-background on multi cloud deployments and migrations. 
-Wide-Ranging expertise in open source solutions, 
-Docker, Kubernetes, Centos and Red hat Linux distributions. 
-Technical expertise primarily focused on VMware, 
+Experienced Sales/Solution Engineer with an extensive background on 
+multi cloud deployments and migrations. Wide-Ranging expertise in 
+open source solutions, Docker, Kubernetes, Centos and Red hat 
+Linux distributions. Technical expertise primarily focused on VMware, 
 Centos/Red hat, DigitalOcean, AWS, GCP and Azure Cloud deployments.
 ```
 
