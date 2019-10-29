@@ -8,6 +8,8 @@ Projects that I am currently working on.
 
 [./projects](./projects/)
 
+---
+
 ### Random
 
 Proceed with caution. Just ramdom stuff.
