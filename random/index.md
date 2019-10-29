@@ -8,4 +8,4 @@ coming soon
 
 [..](../)
 
-You can follow me on [twitter](https://twitter.com/AlexisReyesJR).
+You can follow me on [twitter](https://twitter.com/_areyesjr).

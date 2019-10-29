@@ -52,4 +52,4 @@ Click here to read more on [oh my zsh](https://github.com/robbyrussell/oh-my-zsh
 
 [..](../)
 
-You can follow me on [twitter](https://twitter.com/AlexisReyesJR).
+You can follow me on [twitter](https://twitter.com/_areyesjr).

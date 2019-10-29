@@ -18,4 +18,4 @@ Simple cheat sheet for doctl. I plan on adding more resources so check back in.
 
 [..](../)
 
-You can follow me on [twitter](https://twitter.com/AlexisReyesJR).
+You can follow me on [twitter](https://twitter.com/_areyesjr).

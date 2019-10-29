@@ -14,4 +14,4 @@ Proceed with caution. Just ramdom stuff.
 
 [./random](./random/)
 
-You can follow me on [twitter](https://twitter.com/AlexisReyesJR).
+You can follow me on [twitter](https://twitter.com/_areyesjr).
