@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![data](https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif)
-
 ### About
 
 Just some info and how to contact me. 
