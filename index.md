@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![data](https://storage.googleapis.com/chydlx/codepen/random-gif-generator/giphy-logo.gif)
+![data](https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif)
 
 ### About
 
