@@ -21,12 +21,11 @@ Experience
 *   [Telefonica](https://www.telefonica.com/) - Systems Engineer
 *   [Mount Sinai](https://www.msmc.com/) - Network Analyst
 
-Tech
 
 <table>
 <tr>
-<td><strong>tech</strong></td>
-<td><strong>expertise</strong></td>
+<td><strong>Tech</strong></td>
+<td><strong>Expertise</strong></td>
 </tr>
 <tr>
 <td>terraform</td>
