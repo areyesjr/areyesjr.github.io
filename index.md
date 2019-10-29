@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![data](https://storage.googleapis.com/chydlx/codepen/random-gif-generator/giphy-logo.gif)
+
 ### About
 
 Just some info and how to contact me. 
