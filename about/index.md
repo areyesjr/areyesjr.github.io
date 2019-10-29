@@ -4,6 +4,7 @@ layout: default
 
 ### About
 
+![me](../../img/me.png)
 
 ```
 Experienced Sales/Solution Engineer with an extensive background on 
