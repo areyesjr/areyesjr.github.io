@@ -24,8 +24,8 @@ Experience
 
 <table>
 <tr>
-<td><strong>Tech</strong></td>
-<td><strong>Expertise</strong></td>
+<th>Tech</th>
+<th>Expertise</th>
 </tr>
 <tr>
 <td>terraform</td>
@@ -53,12 +53,13 @@ Experience
 </tr>
 </table>
 
+
 Love
 
 *   my family
 *   building solutions
 
-[linkedin](https://www.linkedin.com/in/reyesalexis/).
+[linkedin](https://www.linkedin.com/in/reyesalexis/)
 
 [..](../)
 
