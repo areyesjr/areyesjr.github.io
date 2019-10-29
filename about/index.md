@@ -44,9 +44,11 @@ Tech
 <td>[bash](https://www.gnu.org/software/bash/)</td>
 <td>experienced</td>
 </tr>
+<tr>
 <td>[python](https://www.python.org/)</td>
 <td>newbie</td>
 </tr>
+<tr>
 <td>[cloud](https://en.wikipedia.org/wiki/Cloud)</td>
 <td>experienced</td>
 </tr>
