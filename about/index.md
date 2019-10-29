@@ -21,11 +21,13 @@ Experience
 
 Tech Experience
 ----------
-### terraform
-### ansible
-### pulumi
-### bash
-### python
+#### terraform
+#### ansible
+#### pulumi
+#### bash
+#### python
+
+----------
 
 More info on [linkedin](https://www.linkedin.com/in/reyesalexis/).
 
