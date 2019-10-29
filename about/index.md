@@ -4,6 +4,7 @@ layout: default
 
 ### About
 
+
 ```
 Experienced Sales/Solution Engineer with an extensive background on 
 multi cloud deployments and migrations. Wide-Ranging expertise in 
