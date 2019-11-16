@@ -2,7 +2,7 @@
 title: 'Terminal Setup'
 date: 2019-11-12 00:00:00
 featured_image: '/images/2019-11-12/featured_terminal.jpg'
-excerpt: I recently had the opportunity to travel to Israel for work. The experience was prodigious and one that I will never forget. In this post I share my thougts as well as a couple of pictures. 
+excerpt: I get asked all of the time how I setup my terminal to look the way that it does. In this post I share my secret sauce with the world. Hint, its not a secret. 
 ---
 
 ![](/images/2019-11-12/terminal.png)
