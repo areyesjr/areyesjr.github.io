@@ -2,7 +2,7 @@
 title: 'How I created a free blog.'
 date: 2019-11-16 00:00:00
 featured_image: '/images/2019-11-16/blog-screen.png'
-excerpt: Exanding on my personal brand brought the need for me to create a blog. I wanted to share updates to my followers. I required a solution that did not have a monthly cost associated with it. I did not want to be hosted on a free tier solution that provided a subdomain like areyesjr.somecompany.com. I wanted areyesjr.com and I wanted it to look premium.
+excerpt: Expanding on my personal brand brought the need for me to create a blog. I wanted to share updates to my followers. I required a solution that did not have a monthly cost associated with it. I did not want to be hosted on a free tier solution that provided a subdomain like areyesjr.somecompany.com. I wanted areyesjr.com and I wanted it to look premium.
 ---
 
 ![](/images/2019-11-16/vscode.png)
