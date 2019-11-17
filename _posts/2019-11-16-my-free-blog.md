@@ -9,7 +9,7 @@ excerpt: Exanding on my personal brand brought the need for me to create a blog.
 
 ## I found Jekyll!
 
-I set a goal for my self during 2019 and that goal was to become extremely fluent in markdown. I started to research ways that I can practice and found jekyll. Jekyll is a parsing engine bundled as a ruby gem used to build static websites and is perfect to practice markdown!.
+I set a goal for myself during 2019 and that goal was to become extremely fluent in markdown. I started to research ways that I can practice and found jekyll. Jekyll is a parsing engine bundled as a ruby gem used to build static websites and is perfect to practice markdown!.
  
 > "Local development is a requirement! "
 
@@ -17,7 +17,7 @@ I always strive to do things different and I did not want to build another wordp
 
 ### Free and Premium themes.
 
-I am currently using a premium theme and I hope to keep it as a secrets but you can always access the code in my github profile and figure it out. For free versions there are a bunch out there just google free Jekyll themes. 
+I am currently using a premium theme and I hope to keep it as a secrets but you can always access the code in my Github profile and figure it out. For free versions there are a bunch out there just Google free Jekyll themes. 
 
 Here are a couple of free themes:
 
