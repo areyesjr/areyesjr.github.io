@@ -2,10 +2,10 @@
 title: About Me
 subtitle: Hopefully informative.
 description: A little bio on Me.
-featured_image: /images/main/main.jpg
+featured_image: /images/main/main.webp
 ---
 
-![](/images/about/about.jpg)
+![](/images/about/about.webp)
 
 ### Professional
 
