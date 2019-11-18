@@ -1,11 +1,11 @@
 ---
 title: 'Terminal Setup'
 date: 2019-11-12 00:00:00
-featured_image: '/images/2019-11-12/featured_terminal.webp'
+featured_image: '/images/2019-11-12/featured_terminal.jpg'
 excerpt: I get asked all of the time how I setup my terminal to look the way that it does. In this post I share my secret sauce with the world. Hint, its not a secret! And as a matter of a fact there is a pretty sizable community behind what I use.
 ---
 
-![](/images/2019-11-12/terminal.webp)
+![](/images/2019-11-12/terminal.jpg)
 
 To begin, let's give credit where credit is due. The colors and magic could not be possible without the Dracula Theme. Credit goes to that awesome community. 
 

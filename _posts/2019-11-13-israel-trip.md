@@ -1,11 +1,11 @@
 ---
 title: 'Israel Trip 09/2019'
 date: 2019-11-11 00:00:00
-featured_image: '/images/2019-11-11/telaviv1.webp'
+featured_image: '/images/2019-11-11/telaviv1.jpg'
 excerpt: I recently had the opportunity to travel to Israel for work. The experience was prodigious and one that I will never forget. In this post I share my thougts as well as a couple of pictures.
 ---
 
-![](/images/2019-11-11/telaviv2.webp)
+![](/images/2019-11-11/telaviv2.jpg)
 
 ## I am going to Israel!
 
@@ -20,10 +20,10 @@ Once I arrived at the airport my nerves started to calm. It felt as if I had nev
 Hummus, falafel and others. I am forever changed:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/2019-11-11/food1.webp">
-	<img src="/images/2019-11-11/food4.webp">
-	<img src="/images/2019-11-11/food3.webp">
-	<img src="/images/2019-11-11/food2.webp">
+	<img src="/images/2019-11-11/food1.jpg">
+	<img src="/images/2019-11-11/food4.jpg">
+	<img src="/images/2019-11-11/food3.jpg">
+	<img src="/images/2019-11-11/food2.jpg">
 </div>
 
 The culinary experience in Israel is amazing. As a solution engineer in sales we take customers out to eat a lot and I had the opportunity to test out several different places. I was not disappointed in any of the restaurants that we visited. I was just completely impressed. I now know what great hummus tastes like.
@@ -33,10 +33,10 @@ The culinary experience in Israel is amazing. As a solution engineer in sales we
 Scooters, walks and a dive in the beach:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/2019-11-11/telaviv-5.webp">
-	<img src="/images/2019-11-11/telaviv-6.webp">
-	<img src="/images/2019-11-11/telaviv-4.webp">
-	<img src="/images/2019-11-11/telaviv-3.webp">
+	<img src="/images/2019-11-11/telaviv-5.jpg">
+	<img src="/images/2019-11-11/telaviv-6.jpg">
+	<img src="/images/2019-11-11/telaviv-4.jpg">
+	<img src="/images/2019-11-11/telaviv-3.jpg">
 </div>
 
 I am from Miami and I can't help but see the resemblance between South Beach and Tel Aviv. It is definitely not an apples to apples comparison but the vibrance and energy is very similar. There are scores of people exercising at all times. In the mornings before customer visits we would go to the beach for a quick swim and it was sureal to think that I am swiming half across the globe. It was just an amazing experience!
@@ -48,10 +48,10 @@ I am from Miami and I can't help but see the resemblance between South Beach and
 The sites and sounds of Jarusalem:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/2019-11-11/jarusalem-2.webp">
-	<img src="/images/2019-11-11/jarusalem-3.webp">
-	<img src="/images/2019-11-11/jarusalem-4.webp">
-	<img src="/images/2019-11-11/jarusalem-1.webp">
+	<img src="/images/2019-11-11/jarusalem-2.jpg">
+	<img src="/images/2019-11-11/jarusalem-3.jpg">
+	<img src="/images/2019-11-11/jarusalem-4.jpg">
+	<img src="/images/2019-11-11/jarusalem-1.jpg">
 </div>
 
 To begin, I am not religious but respect everyone's beliefs equally. Stepping into land with so much history is both an honor and an eye opening experience.
