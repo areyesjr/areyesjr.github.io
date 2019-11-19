@@ -2,7 +2,6 @@
 title: About Me
 subtitle: Hopefully informative.
 description: A little bio on Me.
-featured_image: /images/main/main.webp
 featured_image: /images/main/main.jpg
 ---
 
